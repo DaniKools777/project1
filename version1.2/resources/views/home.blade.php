@@ -27,8 +27,8 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Services</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Over Mij</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Programmeer Talen</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
@@ -44,8 +44,8 @@
                         <hr class="divider my-4" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 font-weight-light mb-5">Web en Software developer uit Sint Willebrord </p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                        <p class="text-white-75 font-weight-light mb-5">Web en Software Developer</p>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Meer Informatie</a>
                     </div>
                 </div>
             </div>
@@ -55,10 +55,13 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <h2 class="text-white mt-0">We've got what you need!</h2>
+                        <h2 class="text-white mt-0">Passie voor programmeren</h2>
                         <hr class="divider light my-4" />
-                        <p class="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
+                        <p class="text-white-50 mb-4">Toen ik al klein was vond ik het leuk om met computers te werken en wat dit nu allemaal inhoud.
+                        Ik wou al snel weten wat er nu allemaal in een normale computer voor hardware zit. Na eerst een opleiding gedaan te hebben over
+                        wat hardware doet en hoe het werkt kwam ik in contact met het programmeren en sinds dien ben ik dit blijven doen omdat ik het leuk vind
+                        om nieuwe dingen te leren en te maken.</p>
+                        <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Programmeer Talen</a>
                     </div>
                 </div>
             </div>
@@ -66,35 +69,50 @@
         <!-- Services-->
         <section class="page-section" id="services">
             <div class="container">
-                <h2 class="text-center mt-0">At Your Service</h2>
+                <h2 class="text-center mt-0">Programmeer Talen</h2>
                 <hr class="divider my-4" />
                 <div class="row">
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
-                            <i class="fas fa-4x fa-gem text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Sturdy Themes</h3>
+                            <i class="fab fa-4x fa-html5 text-primary mb-4"></i>
+                            <h3 class="h4 mb-2">HTML</h3>
                             <p class="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
-                            <i class="fas fa-4x fa-laptop-code text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Up to Date</h3>
+                            <i class="fab fa-4x fa-css3-alt text-primary mb-4"></i>
+                            <h3 class="h4 mb-2">CSS</h3>
                             <p class="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
+                            </div>
+
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
-                            <i class="fas fa-4x fa-globe text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Ready to Publish</h3>
+                            <i class="fab fa-4x fa-php text-primary mb-4"></i>
+                            <h3 class="h4 mb-2">PHP</h3>
                             <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                            </div>
+
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
-                            <i class="fas fa-4x fa-heart text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Made with Love</h3>
+                            <i class="fab fa-4x fa-node-js text-primary mb-4"></i>
+                            <h3 class="h4 mb-2">Javascript</h3>
                             <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
