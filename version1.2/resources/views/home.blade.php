@@ -76,7 +76,7 @@
                         <div class="mt-5">
                             <i class="fab fa-4x fa-html5 text-primary mb-4"></i>
                             <h3 class="h4 mb-2">HTML</h3>
-                            <p class="text-muted mb-0">Gestructeerde HTML layouts voor makkelijke aanpassingen en overzicht.</p>
+                            <p class="text-muted mb-0">Gestructeerde HTML layouts voor eenvoudig overzicht.</p>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                             </div>
@@ -86,7 +86,7 @@
                         <div class="mt-5">
                             <i class="fab fa-4x fa-css3-alt text-primary mb-4"></i>
                             <h3 class="h4 mb-2">CSS</h3>
-                            <p class="text-muted mb-0">All dependencies are kept current to keep things fresh.</p>
+                            <p class="text-muted mb-0">Mijn layouts werken op alle apparaten, van groot tot klein.</p>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                             </div>
@@ -97,7 +97,7 @@
                         <div class="mt-5">
                             <i class="fab fa-4x fa-php text-primary mb-4"></i>
                             <h3 class="h4 mb-2">PHP</h3>
-                            <p class="text-muted mb-0">You can use this design as is, or you can make changes!</p>
+                            <p class="text-muted mb-0">Snellere laad tijden en flexiebelere database connectie</p>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
                             </div>
@@ -108,7 +108,7 @@
                         <div class="mt-5">
                             <i class="fab fa-4x fa-node-js text-primary mb-4"></i>
                             <h3 class="h4 mb-2">Javascript</h3>
-                            <p class="text-muted mb-0">Is it really open source if it's not made with love?</p>
+                            <p class="text-muted mb-0">Dynamische en moderne look voor je applicatie of website.</p>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
                             </div>

@@ -4967,7 +4967,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #f4623a;
+  background-color: #ff3e55;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -7492,10 +7492,10 @@ button.bg-dark:focus {
   margin-right: 0 !important;
 }
 
-.mb-0,
+/* .mb-0,
 .my-0 {
   margin-bottom: 0 !important;
-}
+} */
 
 .ml-0,
 .mx-0 {
@@ -9781,7 +9781,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #ff3e55 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
