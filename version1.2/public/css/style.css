@@ -2444,13 +2444,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #ff3e55;
+  border-color: #ff3e55;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  color: #ff3e55;
+  background-color: #021d44;
+  border-color: #021d44;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -2624,8 +2624,8 @@ fieldset:disabled a.btn {
 
 .btn-light {
   color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  background-color:#ff3e55;
+  border-color:#ff3e55;
 }
 .btn-light:hover {
   color: #212529;
@@ -6079,7 +6079,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #021d44 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9992,11 +9992,11 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color: #ff3e55;
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #ff3e55;
 }
 
 .btn {
@@ -10037,7 +10037,7 @@ hr.light {
   color: #f4623a;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #ff3e55 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10055,14 +10055,14 @@ hr.light {
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #fff;
+    color: #ff3e55;
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
   }
   #mainNav.navbar-scrolled {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
+    background-color: #021d44;
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
@@ -10071,17 +10071,17 @@ hr.light {
     color: #f4623a;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #212529;
+    color: #fff;
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #ff3e55;
   }
 }
 
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, #021d44 0%, rgb(0 0 0 / 8%) 100%), url(../assets/img/bg-masthead.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;

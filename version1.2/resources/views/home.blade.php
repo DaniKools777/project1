@@ -76,7 +76,7 @@
                         <div class="mt-5">
                             <i class="fab fa-4x fa-html5 text-primary mb-4"></i>
                             <h3 class="h4 mb-2">HTML</h3>
-                            <p class="text-muted mb-0">Our themes are updated regularly to keep them bug free!</p>
+                            <p class="text-muted mb-0">Gestructeerde HTML layouts voor makkelijke aanpassingen en overzicht.</p>
                             <div class="progress">
                                 <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                             </div>
@@ -224,3 +224,11 @@
         <script type="text/javascript" src="{{ URL::asset('js/scripts.js') }}"></script>
     </body>
 </html>
+
+
+<!-- 
+    Kleuren:
+    Rood : #ff3e55
+    Donker blauw : #021d44
+
+ -->
